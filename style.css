@@ -1,4 +1,8 @@
 
+h1, h2, h3 {
+ margin: 2px;
+ margin-left: 20px;
+}
 
 h3 {
     font-family: Calibri, Arial;
@@ -12,10 +16,7 @@ p {
     color: black;
 }
 
-h1, h2, h3 {
- margin: 2px;
- margin-left: 20px;
-}
+
 
 h1 {
     font-family: Calibri, Arial;
